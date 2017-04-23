@@ -73,3 +73,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea/dbnavigator.xml
+.idea/libraries/GOPATH__ipspy_.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/misc.xml
+ipspy.iml
